@@ -1,7 +1,10 @@
 # 💫 About Me:
 Hi, I'm Abhishek Sathala – a passionate Full-Stack MERN Developer from Telangana, India 🇮🇳.<br><br>🔭 I’m currently working on several full-stack projects including a real estate app, e-commerce platforms, music player, and more!<br><br>🌱 I’m always learning and improving my skills in React, Node.js, MongoDB, Tailwind CSS, and Framer Motion.<br><br>💡 I love building visually appealing, responsive, and user-friendly web apps.<br><br>👨‍💻 Most of my projects involve authentication, Stripe payments, media uploads, and REST APIs.<br><br>✍️ I write blogs to share knowledge and insights on frontend trends and full-stack development.<br><br>💼 I'm currently looking for a Full-Stack Developer role – ready to collaborate and contribute!
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR5NGJ0a3lpMHBzcXR0aGM3bnF4MnRzZTA1Mzd2cngxbWQ5YmU4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR5NGJ0a3lpMHBzcXR0aGM3bnF4MnRzZTA1Mzd2cngxbWQ5YmU4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="400" />
+</p>
+
 
 
 ## 🌐 Socials:
